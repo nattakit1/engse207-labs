@@ -1,9 +1,5 @@
-ได้เลย เดี๋ยวผมทำให้ครบ พร้อมเอาไปวางใน README.md ได้ทันที
-ผมเลือก ระบบ Online Food Ordering (เหมาะกับ ADR มาก เพราะมี trade-off ชัด)
-รูปแบบด้านล่างเป็น Markdown 100% 👍
-
-Architecture Decision Record (ADR)
-Online Food Ordering System
+# Architecture Decision Record (ADR)
+## Online Food Ordering System
 1. Requirements Analysis
 Functional Requirements
 
@@ -221,3 +217,4 @@ Reasons:
 ตอบโจทย์ Real-time tracking และ traffic สูง
 
 เหมาะกับระบบ Online Food Ordering ที่มีหลายฟังก์ชันแยกชัดเจน
+
